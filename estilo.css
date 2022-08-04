@@ -36,3 +36,14 @@ h1 {
     color: #828271;
     font-size: 1.2em;
 }
+
+h2 {
+    color: #828271; 
+    font-weight: 700;
+}
+
+.fotos {
+    border: 10px solid ; 
+    color: #828271;
+    
+}
