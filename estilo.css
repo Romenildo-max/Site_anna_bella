@@ -17,6 +17,10 @@ body {
     padding: 10px;
 }
 
+#rodape {
+    text-align: center;
+}
+
 .centralizar {
     text-align: center;
 }
@@ -26,4 +30,9 @@ a {
     text-decoration: none;
     font-weight: bold;
     padding: 5px;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
 }
