@@ -1,7 +1,7 @@
 body {
     background: #d2d2c1 url(img/fundo.png);
     font: 16px arial, helvetica, sans-serif;
-}
+} /*Podemos usar uma imagem e uma cor, a imagem ficar sobre a cor,a imagem precisar ser grande suficiente */
 
 #principal {
     width: 900px ;
@@ -27,9 +27,9 @@ body {
 
 a {
     color: #4b566a;
-    text-decoration: none;
+    text-decoration: none;/*NONE para esconder o UNDERLINE*/
     font-weight: bold;
-    padding: 5px;
+    padding: 5px;/* PADDING dei um espaçamento nos links*/
 }
 
 h1 {
